@@ -1,0 +1,5 @@
+function start()
+	print("lua 加载所有活动...开始读取json文件")
+	print("injected object", lightObject)
+	lightObject:GetComponent("LoadAllAct"):onShowEnableAct();
+end

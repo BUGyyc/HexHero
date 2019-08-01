@@ -1,0 +1,49 @@
+{
+    "actLists": [
+        {
+            "name": "充值有礼",
+            "id": "1",
+            "start_time": "2019-01-01",
+            "end_time": "2019-12-01",
+            "isVip": "false",
+            "isClicked": "false",
+            "extra": ""
+        },
+        {
+            "name": "幸运转盘",
+            "id": "2",
+            "start_time": "2019-01-01",
+            "end_time": "2019-12-01",
+            "isVip": "false",
+            "isClicked": "false",
+            "extra": ""
+        },
+        {
+            "name": "每日礼包",
+            "id": "3",
+            "start_time": "2019-01-01",
+            "end_time": "2019-12-01",
+            "isVip": "false",
+            "isClicked": "false",
+            "extra": ""
+        },
+        {
+            "name": "签到有礼",
+            "id": "4",
+            "start_time": "2019-01-01",
+            "end_time": "2019-12-01",
+            "isVip": "false",
+            "isClicked": "false",
+            "extra": ""
+        },
+        {
+            "name": "邀请礼包",
+            "id": "5",
+            "start_time": "2019-01-01",
+            "end_time": "2019-12-01",
+            "isVip": "false",
+            "isClicked": "false",
+            "extra": ""
+        }
+    ]
+}
